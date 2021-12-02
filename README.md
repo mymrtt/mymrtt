@@ -1,7 +1,6 @@
 ### Olá, eu me chamo Yasmin 👋
 
-- 🔭 Sou desenvolvedora front-end na @1STi;
-- 🌱 No momento, estou explorando o Gatsby e o GraphCMS;
+- 🔭 Sou desenvolvedora front-end na @RedVentures;
 - 📫 Você pode me encontrar em qualquer lugar da internet usando @mymrtt;
 - ⚡ Fun fact: Sou facilmente convencida caso você me ofereça pizza.
 
